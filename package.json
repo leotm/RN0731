@@ -10,7 +10,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "lavamoat": "^8.0.0",
+    "lavamoat": "git+https://github.com/LavaMoat/LavaMoat.git#e22c87fa866779a862ccfddfedf10f167368113f",
     "react": "18.2.0",
     "react-native": "0.73.1"
   },
